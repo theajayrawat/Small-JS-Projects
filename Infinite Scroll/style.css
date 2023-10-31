@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: rgb(34,193,195);
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:40px;
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top:40px;
+    background-color: darkblue
+}
+
+p{
+    color: white;
+    padding: 22px;
+}
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
